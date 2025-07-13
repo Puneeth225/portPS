@@ -1,0 +1,42 @@
+[
+    {
+      "title": "DailyINFO",
+      "imageSrc": "projects/p1.jpg",
+      "description": "A real time news application giving information from around the world.",
+      "skills": ["React", "NEWS API", "JS"],
+      "demo": "https://www.youtube.com/watch?v=tFxRBDseQ74&t=51s",
+      "source": "https://github.com/Puneeth225/Real-News-Channel-"
+    },
+    {
+      "title": "Flight Ticket Prediction",
+      "imageSrc": "projects/p2.jpg",
+      "description": "Machine Learning model to predict prices of flight tickets with accuracy of 83%.",
+      "skills": ["Python", "Jupyter", "Machine Learning"],
+      "demo": "https://github.com/Puneeth225/Flight-Ticket-Prediction",
+      "source": "https://github.com/Puneeth225/Flight-Ticket-Prediction"
+    },
+    {
+      "title": "Ecare Android application",
+      "imageSrc": "projects/p3.jpg",
+      "description": "Total health care at one place including lab tests, medicines etc., with user login facility.",
+      "skills": ["Java", "SQLite", "Android Studio"],
+      "demo": "https://github.com/Puneeth225/Ecare",
+      "source": "https://github.com/Puneeth225/Ecare"
+    },
+    {
+      "title": "URL Shortner",
+      "imageSrc": "projects/p4.jpg",
+      "description": "Handles large and complex URLs and shorten them and store 100s of them in the database",
+      "skills": ["HTML", "JS", "MongoDB"],
+      "demo": "https://youtu.be/3GziQ49Vogg?si=RI6yCAh4Q7YQySS_",
+      "source": "https://github.com/Puneeth225/URL_Shortner"
+    },
+    {
+      "title": "Chat App",
+      "imageSrc": "projects/p5.png",
+      "description": "Real time chat application where in users can send messages and attachments to others through Chatify",
+      "skills": ["Databases","React", "WebSocket"],
+      "demo": "https://youtu.be/-_3vruEc9xU",
+      "source": "https://github.com/Puneeth225/Chatify"
+    }
+  ]

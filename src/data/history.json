@@ -1,0 +1,40 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "ZL Technologies Pvt Ltd",
+    "startDate": "Sep, 2024",
+    "endDate": "Till",
+    "experiences": [
+      "Enhancing and optimising the core ZL Product",
+      "Improving the database performances"
+    ],
+    "imageSrc":"history/zl-technologies.png"
+  },
+  {
+      "role": "Software Engineer Intern",
+      "organisation": "Averlon Inclusives",
+      "startDate": "Jan, 2023",
+      "endDate": "Jun, 2023",
+      "experiences": ["Worked on cloud security majorly explored AWS", "Reduced cloud risks using Rego rules and Golang"],
+      "imageSrc": "history/averlon.png"
+    },
+    {
+      "role": "Apprenticeship - MLSS",
+      "organisation": "Amazon",
+      "startDate": "Jun, 2022",
+      "endDate": "Jul, 2022",
+      "experiences": ["Exposed to Machine Learning", "Learning experience with Amazon Data scientists "],
+      "imageSrc": "history/amazon.png"
+    },
+    {
+      "role": "Virtual Internship",
+      "organisation": "Goldman Sachs",
+      "startDate": "Apr, 2022",
+      "endDate": "May, 2022",
+      "experiences": [
+        "Decrypted weak passwords encrypted by MD5 Hashing",
+        "Directed rules for strong password policies"
+      ],
+      "imageSrc": "history/gs.png"
+    }
+  ]
