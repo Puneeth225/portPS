@@ -19,7 +19,7 @@ export const Contact = () => {
             <ul className={styles.links}>
                 <li className={styles.link}>
                     <img src={getImageUrl('https://raw.githubusercontent.com/Puneeth225/GOgetObject/main/assets/contact/UserIcon.png')} alt='Resume Icon'></img>
-                    <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Puneeth225/GOgetObject/main/assets/contact/Puneeth_Sharma_1.pdf&embedded=true" target='_blank'>Resume</a>
+                    <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Puneeth225/GOgetObject/main/assets/contact/Puneeth_Sharma_1.pdf&embedded=true" target='_blank' rel='noreferrer'>Resume</a>
                 </li>
                 <li className={styles.link}>
                     <img src={getImageUrl('https://raw.githubusercontent.com/Puneeth225/GOgetObject/main/assets/contact/emailIcon.png')} alt='Email-Icon'></img>
